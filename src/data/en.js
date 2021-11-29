@@ -7,7 +7,7 @@ export default {
   IT PRofessional, Software Quality Assurance Engineer with demonstrated history of working in various domain like Eneargy, E-Discovery and FinTech technologies. Skilled in Manual Testing, Performance Testing, Project Management,Automation testing(Selenium with Java), API Testing, Database Testing, Load Testing, Communicate with Clients, Linux System Administration. <br /><br />
   <br /><br />My favourite stack :  Penetration testing, Security/Network Analysis, Automation, Project Management. 
   `,
-  pictureUrl: 'me.jpg',
+  pictureUrl: 'IMG_1764.jpg',
   dateOfBirth: '1987-08-13',
   mainAddress: 'Lalitpur, Nepal',
   websites: [
