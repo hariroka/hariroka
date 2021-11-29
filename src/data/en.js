@@ -1,8 +1,8 @@
 export default {
-  firstName: 'Yash',
-  lastName: 'Kharel',
-  emailAddress: 'yash048339@gmail.com',
-  headline: 'Software Developer in Nepal',
+  firstName: 'Hari ',
+  lastName: 'Roka',
+  emailAddress: 'hariroka2044@gmail.com',
+  headline: 'Software Quality Assurance Consultant',
   summary: `
     Experienced Chief Technology Officer, Developer  with a demonstrated history of working in the internet industry. Skilled in Python, React, continuous integration, WordPress, Linux System Administration, and Application Programming Interfaces.<br /><br />
     Strong engineering professional with a Licence focused in Software Devlopement from Kathmandu University Nepal.<br /><br />My favourite stack :  ReactJS, ReactNative with continuous integration on Gitlab,Python.
