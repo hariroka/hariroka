@@ -4,54 +4,54 @@ export default {
   emailAddress: 'hariroka2044@gmail.com',
   headline: 'Software Quality Assurance Consultant',
   summary: `
-    Experienced Chief Technology Officer, Developer  with a demonstrated history of working in the internet industry. Skilled in Python, React, continuous integration, WordPress, Linux System Administration, and Application Programming Interfaces.<br /><br />
-    Strong engineering professional with a Licence focused in Software Devlopement from Kathmandu University Nepal.<br /><br />My favourite stack :  ReactJS, ReactNative with continuous integration on Gitlab,Python.
+  IT PRofessional, Software Quality Assurance Engineer with demonstrated history of working in various domain like Eneargy, E-Discovery and FinTech technologies. Skilled in Manual Testing, Performance Testing, Project Management,Automation testing(Selenium with Java), API Testing, Database Testing, Load Testing, Communicate with Clients, Linux System Administration. <br /><br />
+  <br /><br />My favourite stack :  Penetration testing, Security/Network Analysis, Automation, Project Management. 
   `,
   pictureUrl: 'me.jpg',
-  dateOfBirth: '1995-07-03',
-  mainAddress: 'Kathmandu, Nepal',
+  dateOfBirth: '1987-08-13',
+  mainAddress: 'Lalitpur, Nepal',
   websites: [
     {
       type: 'Linkedin',
-      url: 'https://www.linkedin.com/in/yash-kharel-2b338698/',
+      url: 'https://www.linkedin.com/in/hariroka/',
     },
   ],
   phoneNumbers: [
     {
       type: 'Personal',
-      number: '+977 9843048339',
+      number: '+977 9851114293',
     },
   ],
 
   imAccounts: [
     {
       type: 'Skype',
-      name: 'yashkharel',
+      name: 'Live:hari.roka',
     }
   ],
   snsAccounts: [
     {
       name: 'Linkedin',
       icon: 'linkedin',
-      url: 'https://www.linkedin.com/in/yash-kharel-2b338698/',
+      url: 'https://www.linkedin.com/in/hariroka/',
     },
     {
       name: 'Github',
       icon: 'github',
-      url: 'https://github.com/YashKharel19',
+      url: 'https://github.com/hariroka/',
     },
   ],
   locations: [
     {
-      name: 'Kathmandu',
+      name: 'Lalitpur',
       country: 'Nepal',
       isCurrent: true,
     }
   ],
   positions: [
     {
-      title: 'FrontEnd Developer',
-      summary:'Javascript development<br />| Angular 8' ,
+      title: 'Software Quality Assurance Consultant',
+      summary:'JSoftware Quality Assurance Engineer<br />| Testing' ,
       startDate: '2021-07-12',
       endDate: 'Today',
       isCurrent: true,
