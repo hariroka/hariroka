@@ -51,51 +51,51 @@ export default {
   positions: [
     {
       title: 'Software Quality Assurance Consultant',
-      summary:'JSoftware Quality Assurance Engineer<br />| Testing' ,
-      startDate: '2021-07-12',
+      summary:'Software Quality Assurance Engineer<br />| Manual/Automation Testing' ,
+      startDate: '2019-02-12',
       endDate: 'Today',
       isCurrent: true,
-      company: 'Simply Soft',
+      company: '8Squarei Infortans',
     },
     {
-      title: 'FrontEnd Developer(Part Time)',
-      summary:'Javascript development<br />| Angular 8' ,
-      startDate: '2020-06-04',
-      endDate: '2020-07-04',
+      title: 'QC Engineer',
+      summary:'Software Testing<br />| Selenium / NUnit' ,
+      startDate: '2017-12-14',
+      endDate: '2019-02-11',
       isCurrent: true,
-      company: 'Simply Soft',
+      company: 'Nepasoft Solutions',
     },
     {
-      title: 'FrontEnd Developer',
-      summary:'Javascript development<br />| Angular 8' ,
-      startDate: '2019-12-01',
-      endDate: '2020-05-31',
+      title: 'Associate Software Test Engineer',
+      summary:'Manual Testing<br />| Writing the Testcase/ Test Execution' ,
+      startDate: '2017-03-03',
+      endDate: '2017-11-31',
       isCurrent: true,
-      company: 'Next Tech Point',
+      company: 'Pioneer Solutions',
     },
     {
-      title: 'FrontEnd Developer',
-      summary:'Javascript development<br />| ReactJS' ,
-      startDate: '2018-02-01',
-      endDate: '2019-02-01',
+      title: 'IT Support/Software Tester',
+      summary:'Communicate with Client<br />| Software Testing ' ,
+      startDate: '2012-08-01',
+      endDate: '2015-02-18',
       isCurrent: true,
-      company: 'Integrated ICT',
+      company: 'Cellcom Pvt. Ltd.',
     },
     {
-      title: 'Developer UI/UX',
-      summary:'Javascript development<br />| ReactJS ',
-      startDate: '2017-12-01',
-      endDate: '2018-01-31',
+      title: 'Software Quality Assurance Consultant',
+      summary:'Software Testing <br />| Test Case Execution ',
+      startDate: '2020-12-01',
+      endDate: 'today',
       isCurrent: true,
       company: 'Bits Innovation',
     },
     {
-      title: 'Trainee Software Test Engineer',
-      summary:'SQL/Selenium/Burpsuite',
-      startDate: '2017-07-03',
-      endDate: '2017-10-13',
+      title: 'Software Quality Assurance Consultant',
+      summary:'QA Training',
+      startDate: '2021-10-03',
+      endDate: '2021-11-30',
       isCurrent: true,
-      company: 'Pioneer Solutions',
+      company: 'Easy Access',
     }
   ],
   interests: '',
@@ -108,18 +108,14 @@ export default {
     {
       name: 'English',
       level: 'Professional working proficiency',
-      levelNumber: 7,
+      levelNumber: 8,
     },
     {
       name: 'Hindi',
       level: 'Professional working proficiency',
       levelNumber: 7,
     },
-    {
-      name: 'German',
-      level: 'Elementary proficiency',
-      levelNumber: 3,
-    },
+    
   ],
   skills: [
     {
@@ -135,18 +131,18 @@ export default {
     {
       name: 'APIs',
       language: {
-        name: 'RED HAT',
-        style: 'redhat',
+        name: 'POSTMAN',
+        style: 'postman',
       },
       category: {
         name: 'Frameworks / SDK / CMS',
       },
     },
     {
-      name: 'Django',
+      name: 'Eclipse',
       language: {
-        name: 'Python',
-        style: 'python'
+        name: 'Java',
+        style: 'Java'
       },
       category: {
         name: 'Frameworks / SDK / CMS',
